@@ -80,8 +80,8 @@ Essa estrutura facilita análises rápidas e intuitivas em ambientes de **Data W
 ---
 
 ##  Autoria  
-Projeto desenvolvido por **Dayanne Simão**,  
-como parte das atividades práticas da disciplina de Banco de Dados – FIAP.  
+Projeto desenvolvido por **Dayanne Simão**  
+ 
 
 ---
 
